@@ -1,7 +1,7 @@
-# :computer: React Fundamentals
+# :computer: React DTmoney
 
 
 
 
-This application lead by Rocketseat focus on learning React fundamentals. For instance, setting up webpack and babel files, using components, hooks and props effectively. Also, the class was an introduction on how to integrate typescript to React.
+This application, lead by Rocketseat, focus on building a React App with the proper characteristics to be used in the labor market.
 
