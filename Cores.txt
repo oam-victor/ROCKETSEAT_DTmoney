@@ -1,0 +1,4 @@
+Purple  #5429CC
+Cinza   #ECECF0
+Red     #33CC95
+Red     #F296A5
