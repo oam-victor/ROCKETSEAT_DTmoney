@@ -5,3 +5,4 @@
 
 This application, lead by Rocketseat, focus on building a React App with the proper characteristics to be used in the labor market.
 
+The application uses "hooks", "mirageJS", "componentizing" 
